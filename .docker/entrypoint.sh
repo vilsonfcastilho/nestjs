@@ -2,4 +2,4 @@
 
 yarn add
 
-yarn start
+yarn start:dev
